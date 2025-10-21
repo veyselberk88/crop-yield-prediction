@@ -1,0 +1,20 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Raw data files
+Data/*.csv
+Data/*.xlsx
+
+# Environment files
+.env
+*.env
+
+# VS Code settings 
+.vscode/
