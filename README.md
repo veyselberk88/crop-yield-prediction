@@ -5,6 +5,9 @@
 
 This project uses real-world data to build a machine learning model that predicts crop yield based on environmental and agricultural inputs. The goal is to help stakeholders make better decisions around crop selection, input use, and agricultural planning.
 
+## BLUF (Bottom Line Up Front)
+
+This project uses environmental and agricultural data to build a predictive model for crop yield. The final model (XGBoost) achieves R² = 0.999 and highlights rainfall and crop type as key drivers.
 
 ## Business Problem
 
